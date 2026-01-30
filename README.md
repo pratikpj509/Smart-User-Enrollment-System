@@ -7,8 +7,8 @@ Bootstrap, and Axios for seamless integration with the backend APIs. Postman is 
 
 Technologies Used :
 
-Spring Boot
-React
-MySQL
-Axios
+Spring Boot,
+React,
+MySQL,
+Axios,
 Bootstrap
